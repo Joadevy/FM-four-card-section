@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component
+# Frontend Mentor - Four card section
 
 Link site URL https: https://joadevy.github.io/FM-four-card-section/
 
